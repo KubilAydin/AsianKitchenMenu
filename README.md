@@ -1,4 +1,4 @@
-# 📝 Bitirme Projesi - Sport Center
+# 📝 Bitirme Projesi - Asian Kitchen
 
 Bu projede kullanılan frameworkler ve programlama dilleri aşağıdaki gibidir.
 
@@ -9,7 +9,7 @@ Bu projede kullanılan frameworkler ve programlama dilleri aşağıdaki gibidir.
 
 ## 🔭 Github ile paylaşıldı.
 
-[<---- Link ---->]()
+[<---- Link ---->](https://kubilaydin.github.io/H6-AsianKitchenMenu/)
   
 ## 🚀 Sayfa Yapıları
 ### 
@@ -28,7 +28,7 @@ Bu projede kullanılan frameworkler ve programlama dilleri aşağıdaki gibidir.
 Projeyi klonlayın
 
 ```cmd
-  git clone https://link-to-project
+  git clone https://github.com/KubilAydin/H6-AsianKitchenMenu.git
 ```
 
 
