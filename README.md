@@ -9,7 +9,7 @@ Bu projede kullanılan frameworkler ve programlama dilleri aşağıdaki gibidir.
 
 ## 🔭 Github ile paylaşıldı.
 
-[<---- Link ---->](https://kubilaydin.github.io/H6-AsianKitchenMenu/)
+[<---- Link ---->](https://kubilaydin.github.io/AsianKitchenMenu/)
   
 ## 🚀 Sayfa Yapıları
 ### 
